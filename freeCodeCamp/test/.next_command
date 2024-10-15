@@ -133,3 +133,5 @@ cd . .
 cd .
 cd ..
 ls --color=auto
+more package.json
+__vsc_prompt_cmd_original
