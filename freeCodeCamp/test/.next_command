@@ -182,3 +182,8 @@ clear
 mkdir website
 ls --color=auto
 cd website
+cd
+cd ..
+cd /workspace/project
+cd website
+ls --color=auto
