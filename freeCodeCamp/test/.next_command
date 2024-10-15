@@ -63,3 +63,33 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello terminal
 pwd
 ls --color=auto
+cd
+cd ibnu
+cd
+cd /gitpod
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+/cd freeCodeCamp
+cd freecodecamp
+freeCodeCamp
+cd freeCodeCamp
+cd freeCodeCamp
+cd project
+cd
+cd
+__vsc_prompt_cmd_original
+cd
+cd project
+cd /project
+cd /project
+back
+cd /project
+cd freeCodeCamp
+echo hello terminal
+ls --color=auto
+pwd
+cd /workspace/project
+cd freeCampCode
+cd freeCodeCamp
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
