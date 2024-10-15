@@ -193,3 +193,4 @@ touch index.html
 __vsc_prompt_cmd_original
 touch style.css
 touch styles.css
+ls --color=auto
